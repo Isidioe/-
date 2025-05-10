@@ -1,13 +1,15 @@
 header{
-    background-color: aliceblue;
+    background-color: #92C7D0;
     text-align: center;
-        padding: 15px 0;
+    padding: 15px 0;
+  
 }
 nav ul{
     list-style: none;
     display: flex;
     justify-content: space-around;
     gap: 20px;
+  	color: white;
 
 }
 nav li{
