@@ -1,19 +1,19 @@
 header{
     background-color: #92C7D0;
     text-align: center;
-    padding: 15px 0;
+    padding: 15vh 0;
+  	color: white;
   
 }
 nav ul{
     list-style: none;
     display: flex;
     justify-content: space-around;
-    gap: 20px;
-  	color: white;
+    gap: 5vh;
 
 }
 nav li{
-    size: 20px;
+  	color: white;
 }
 nav li:hover{
     color: bisque;
@@ -23,7 +23,7 @@ nav a {
     text-decoration: none; 
 }
 .MakeDonation{
-    background-color: burlywood;
+    background-color: #E3B419;
     border-radius: 50;
-    border-color: burlywood
+    border-color: #E3B419
 }
